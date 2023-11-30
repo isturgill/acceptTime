@@ -3,7 +3,7 @@
 ![ggplot_time_to_acceptance_last_180d](https://github.com/isturgill/acceptTime/assets/51013120/13335354-bf95-4f15-bd3e-f0567b274cad)
 
 
-| journal	| journal_fullname |	num_articles |	median_time_to_accept |
+| Journal abbreviation	| Journal full name |	Number of articles |	Median time to acceptance |
 | ------- | ---------------- | ------------- | ---------------------- |
 | pmed |	PLOS Medicine |	53 |	198.0 |
 pcbi	| PLOS Computational Biology |	344 |	191.0 |
